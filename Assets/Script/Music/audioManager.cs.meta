@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f67bae190361667498b2c5e0ed7bd14c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - prefabs: {fileID: 1644000213693851609, guid: 0dc53ed0c34d25848bc6b6d49deb1208,
+      type: 3}
+  - BallHit: {fileID: 8300000, guid: 6ffa3e77c4087af44b38192e89b6f7ab, type: 3}
+  - BallDie: {fileID: 8300000, guid: 91af2bdb81d06c04a8d8463b7e13e573, type: 3}
+  - ItemUsed: {fileID: 8300000, guid: 3a6f1cb9e5269674a96700fafcbaec3a, type: 3}
+  - UI_Button: {fileID: 8300000, guid: 6357ebaec7f2e634bb9efa596395df0c, type: 3}
+  - UI_Lose: {fileID: 8300000, guid: 33ff988afadc8e04f97bcc81ef779dd2, type: 3}
+  - UI_Purchase: {fileID: 8300000, guid: 3b187d6fdd2af0147a2b359058aa57ea, type: 3}
+  - UI_Reward: {fileID: 8300000, guid: 99bd5c135963b1f4bbad44c6d0c7222c, type: 3}
+  - UI_Win: {fileID: 8300000, guid: 2cd8738729d86484da46be50e804ba01, type: 3}
+  - theme: {fileID: 8300000, guid: e97ff5d37c968494abafead035d33f38, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,83 @@
+
+Lose.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lose/DEFEAT
+  rotate: false
+  xy: 2, 949
+  size: 236, 50
+  orig: 236, 50
+  offset: 0, 0
+  index: -1
+lose/demo
+  rotate: false
+  xy: 2, 2
+  size: 838, 428
+  orig: 838, 428
+  offset: 0, 0
+  index: -1
+lose/ken 2
+  rotate: false
+  xy: 169, 704
+  size: 229, 177
+  orig: 229, 177
+  offset: 0, 0
+  index: -1
+lose/ken 3
+  rotate: false
+  xy: 240, 883
+  size: 136, 116
+  orig: 136, 116
+  offset: 0, 0
+  index: -1
+lose/ken 4
+  rotate: false
+  xy: 400, 670
+  size: 229, 177
+  orig: 229, 177
+  offset: 0, 0
+  index: -1
+lose/kèn 1
+  rotate: false
+  xy: 378, 883
+  size: 136, 116
+  orig: 136, 116
+  offset: 0, 0
+  index: -1
+lose/lua 1
+  rotate: true
+  xy: 516, 849
+  size: 150, 191
+  orig: 150, 191
+  offset: 0, 0
+  index: -1
+lose/sao 2
+  rotate: true
+  xy: 631, 654
+  size: 178, 187
+  orig: 178, 187
+  offset: 0, 0
+  index: -1
+lose/sao 3
+  rotate: false
+  xy: 2, 782
+  size: 165, 165
+  orig: 165, 165
+  offset: 0, 0
+  index: -1
+lose/sao1
+  rotate: false
+  xy: 709, 834
+  size: 165, 165
+  orig: 165, 165
+  offset: 0, 0
+  index: -1
+lose/tile
+  rotate: false
+  xy: 2, 432
+  size: 569, 236
+  orig: 569, 236
+  offset: 0, 0
+  index: -1

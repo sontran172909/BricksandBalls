@@ -1,0 +1,132 @@
+
+WIN.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lose/sao 2
+  rotate: false
+  xy: 1195, 82
+  size: 178, 187
+  orig: 178, 187
+  offset: 0, 0
+  index: -1
+lose/sao 3
+  rotate: false
+  xy: 1416, 342
+  size: 165, 165
+  orig: 165, 165
+  offset: 0, 0
+  index: -1
+vic/VIC
+  rotate: false
+  xy: 2, 78
+  size: 841, 429
+  orig: 841, 429
+  offset: 0, 0
+  index: -1
+vic/VICTORY
+  rotate: false
+  xy: 440, 24
+  size: 293, 52
+  orig: 293, 52
+  offset: 0, 0
+  index: -1
+vic/ken1
+  rotate: true
+  xy: 1673, 38
+  size: 135, 115
+  orig: 135, 115
+  offset: 0, 0
+  index: -1
+vic/ken2
+  rotate: true
+  xy: 845, 44
+  size: 225, 173
+  orig: 225, 173
+  offset: 0, 0
+  index: -1
+vic/ken3
+  rotate: true
+  xy: 1555, 38
+  size: 135, 116
+  orig: 135, 116
+  offset: 0, 0
+  index: -1
+vic/ken4
+  rotate: true
+  xy: 1020, 44
+  size: 225, 173
+  orig: 225, 173
+  offset: 0, 0
+  index: -1
+vic/la1/1
+  rotate: true
+  xy: 1195, 2
+  size: 78, 84
+  orig: 78, 84
+  offset: 0, 0
+  index: -1
+vic/la1/2
+  rotate: true
+  xy: 2, 4
+  size: 72, 128
+  orig: 72, 128
+  offset: 0, 0
+  index: -1
+vic/la1/3
+  rotate: true
+  xy: 132, 7
+  size: 69, 95
+  orig: 69, 95
+  offset: 0, 0
+  index: -1
+vic/la1/4
+  rotate: true
+  xy: 1722, 233
+  size: 107, 97
+  orig: 107, 97
+  offset: 0, 0
+  index: -1
+vic/la1/5
+  rotate: false
+  xy: 338, 20
+  size: 100, 56
+  orig: 100, 56
+  offset: 0, 0
+  index: -1
+vic/la1/6
+  rotate: true
+  xy: 229, 17
+  size: 59, 107
+  orig: 59, 107
+  offset: 0, 0
+  index: -1
+vic/sao 3
+  rotate: false
+  xy: 1555, 175
+  size: 165, 165
+  orig: 165, 165
+  offset: 0, 0
+  index: -1
+vic/sao1
+  rotate: false
+  xy: 1583, 342
+  size: 164, 165
+  orig: 164, 165
+  offset: 0, 0
+  index: -1
+vic/sao2
+  rotate: false
+  xy: 1375, 82
+  size: 178, 187
+  orig: 178, 187
+  offset: 0, 0
+  index: -1
+vic/tile
+  rotate: false
+  xy: 845, 271
+  size: 569, 236
+  orig: 569, 236
+  offset: 0, 0
+  index: -1
